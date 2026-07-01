@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ServiceInstaller/ServiceInstaller.csproj" Id="a587a9d8-9a07-4791-8a17-61f7b81deeb2" />
+  <Project Path="SOP.Web/SOP.Web.csproj" />
+  <Project Path="SOP_Setup/SOP_Setup.vdproj" Type="Installer" />
+</Solution>
